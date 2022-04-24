@@ -1,0 +1,294 @@
+{
+  "fullcontinents": [
+    {
+      "name": "Europa",
+      "id": "europe",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": 27,
+      "image": "https://images.pexels.com/photos/534362/pexels-photo-534362.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favoriteCities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "flag": "https://flagpedia.net/data/flags/w580/gb.png",
+          "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "https://flagpedia.net/data/flags/w580/fr.png",
+          "image": "https://images.pexels.com/photos/161901/paris-sunset-france-monument-161901.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "https://flagpedia.net/data/flags/w580/it.png",
+          "image": "https://images.pexels.com/photos/532263/pexels-photo-532263.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "https://flagpedia.net/data/flags/w580/cz.png",
+          "image": "https://images.pexels.com/photos/7512426/pexels-photo-7512426.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "https://flagpedia.net/data/flags/w580/nl.png",
+          "image": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "id": "africa",
+      "description": "Há quem (ainda) pense que as únicas opções de turismo na África têm a ver com safáris e animais selvagens. Mas os países que definem a identidade africana (que é bem diversa) são muito mais do que isso",
+      "countries": 55,
+      "languages": 200,
+      "cities": 18,
+      "image": "https://images.unsplash.com/photo-1526998758291-f87c4c1a8fff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1475&q=80",
+      "favoriteCities": [
+        {
+          "name": "Maputo",
+          "country": "Moçambique",
+          "flag": "https://flagpedia.net/data/flags/w580/mz.png",
+          "image": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/10/maputo.jpeg?resize=630,420"
+        },
+        {
+          "name": "Lagos",
+          "country": "Nigéria",
+          "flag": "https://flagpedia.net/data/flags/w580/ng.png",
+          "image": "https://images.unsplash.com/photo-1618828665011-0abd973f7bb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+        },
+        {
+          "name": "Cairo",
+          "country": "Egito",
+          "flag": "https://flagpedia.net/data/flags/w580/eg.png",
+          "image": "https://images.pexels.com/photos/5609738/pexels-photo-5609738.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Kinshasa",
+          "country": "República Democrática do Congo",
+          "flag": "https://flagpedia.net/data/flags/w580/cd.png",
+          "image": "https://cdn.britannica.com/55/193455-050-F15A580A/Skyline-view-Kinshasa-Democratic-Republic-of-the.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ásia",
+      "id": "asia",
+      "description": "A Ásia é sinônimo de imensidão e diversidade. A região é enorme, apresentando destinos entre os mais incríveis de todo o mundo, com paisagens de tirar o fôlego, praias e mares de beleza ímpar, rica cultura, templos milenares, inabalável culto à religião, ilhas paradisíacas, gastronomia única e exótica.",
+      "countries": 50,
+      "languages": 275,
+      "cities": 46,
+      "image": "https://images.pexels.com/photos/2341830/pexels-photo-2341830.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favoriteCities": [
+        {
+          "name": "Xangai",
+          "country": "China",
+          "flag": "https://flagpedia.net/data/flags/w580/cn.png",
+          "image": "https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Mumbai",
+          "country": "Índia",
+          "flag": "https://flagpedia.net/data/flags/w580/in.png",
+          "image": "https://images.pexels.com/photos/4133256/pexels-photo-4133256.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Istambul",
+          "country": "Turquia",
+          "flag": "https://flagpedia.net/data/flags/w580/tr.png",
+          "image": "https://images.pexels.com/photos/11557155/pexels-photo-11557155.jpeg?cs=srgb&dl=pexels-beyza-kaplan-11557155.jpg&fm=jpg"
+        },
+        {
+          "name": "Seul",
+          "country": "Coreia do Sul",
+          "flag": "https://flagpedia.net/data/flags/w580/kr.png",
+          "image": "https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Tóquio",
+          "country": "Japão",
+          "flag": "https://flagpedia.net/data/flags/w580/jp.png",
+          "image": "https://images.pexels.com/photos/23735/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        }
+      ]
+    },
+    {
+      "name": "América do Norte",
+      "id": "north-america",
+      "description": "Uma coisa é certa: você vai encontrar cidades exuberantes, praias de tirar o fôlego, centros de compras, além de história, cultura e muita badalação. Por isso, para escolher os destinos que mais combinam com você, listamos aqui as principais cidades turísticas do continente norte-americano.",
+      "countries": 3,
+      "languages": 2,
+      "cities": 46,
+      "image": "https://images.pexels.com/photos/6457091/pexels-photo-6457091.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favoriteCities": [
+        {
+          "name": "Nova Iorque",
+          "country": "Estados Unidos",
+          "flag": "https://flagpedia.net/data/flags/w580/us.png",
+          "image": "https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Los Angeles",
+          "country": "Estados Unidos",
+          "flag": "https://flagpedia.net/data/flags/w580/us.png",
+          "image": "https://images.pexels.com/photos/1688186/pexels-photo-1688186.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Chicago",
+          "country": "Estados Unidos",
+          "flag": "https://flagpedia.net/data/flags/w580/us.png",
+          "image": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "name": "Cidade do México",
+          "country": "México",
+          "flag": "https://flagpedia.net/data/flags/w580/mx.png",
+          "image": "https://images.pexels.com/photos/763429/pexels-photo-763429.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Toronto",
+          "country": "Canadá",
+          "flag": "https://flagpedia.net/data/flags/w580/ca.png",
+          "image": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Vancouver",
+          "country": "Canadá",
+          "flag": "https://flagpedia.net/data/flags/w580/ca.png",
+          "image": "https://images.pexels.com/photos/1630885/pexels-photo-1630885.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "id": "oceania",
+      "description": "A Oceania é um dos destinos mais procurados por turistas de todo o mundo. A Oceania é formada por 20 mil ilhas e atóis. No total, a região tem 9 milhões de km² de paisagens paradisíacas, tradições de civilizações aborígenes e cultura europeia, e cidades cheias de atrativos.",
+      "countries": 14,
+      "languages": 5,
+      "cities": 13,
+      "image": "https://1.bp.blogspot.com/-c0y_ioNdkog/T_1sjbUIbqI/AAAAAAAAciQ/3Rk2bBClcx0/s1600/Sidney.jpg",
+      "favoriteCities": [
+        {
+          "name": "Sydney",
+          "country": "Austrália",
+          "flag": "https://flagpedia.net/data/flags/w580/au.png",
+          "image": "https://voyajandohome.files.wordpress.com/2020/08/sidneyaustralia.jpg?w=1024"
+        },
+        {
+          "name": "Melbourne",
+          "country": "Austrália",
+          "flag": "https://flagpedia.net/data/flags/w580/au.png",
+          "image": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Brisbane",
+          "country": "Austrália",
+          "flag": "https://flagpedia.net/data/flags/w580/au.png",
+          "image": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "flag": "https://flagpedia.net/data/flags/w580/nz.png",
+          "image": "https://images.pexels.com/photos/5342976/pexels-photo-5342976.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Porto Moresby",
+          "country": "Papua-Nova Guiné",
+          "flag": "https://flagpedia.net/data/flags/w580/pg.png",
+          "image": "https://www.onde-e-quando.net/site/images/illustration/port-moresby_443.jpg"
+        }
+      ]
+    },
+    {
+      "name": "América do Sul",
+      "id": "south-america",
+      "description": "Que tal começar a olhar para América do Sul, que apresenta uma excepcional riqueza de praias, montanhas, desertos, salares, florestas, atrações históricas, cidades cosmopolitas e belezas naturais de fazer inveja a qualquer outra região do mundo. E fica tudo aqui, do nosso lado, bem pertinho.",
+      "countries": 12,
+      "languages": 19,
+      "cities": 17,
+      "image": "https://images.pexels.com/photos/2065850/pexels-photo-2065850.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favoriteCities": [
+        {
+          "name": "São Paulo",
+          "country": "Brasil",
+          "flag": "https://flagpedia.net/data/flags/w580/br.png",
+          "image": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "flag": "https://flagpedia.net/data/flags/w580/br.png",
+          "image": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Lima",
+          "country": "Peru",
+          "flag": "https://flagpedia.net/data/flags/w580/pe.png",
+          "image": "https://images.pexels.com/photos/3696051/pexels-photo-3696051.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Bogotá",
+          "country": "Colômbia",
+          "flag": "https://flagpedia.net/data/flags/w580/co.png",
+          "image": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "flag": "https://flagpedia.net/data/flags/w580/ar.png",
+          "image": "https://images.pexels.com/photos/7488914/pexels-photo-7488914.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        },
+        {
+          "name": "Santiago",
+          "country": "Chile",
+          "flag": "https://flagpedia.net/data/flags/w580/cl.png",
+          "image": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+        }
+      ]
+    }
+  ],
+  "continents": [
+    {
+      "title": "Africa",
+      "url": "/continents/Africa.jpg",
+      "description": "O berço da humanidade",
+      "slug": "africa"
+    },
+    {
+      "title": "Ásia",
+      "url": "/continents/Asia.jpg",
+      "description": "Culturas e tradições do outro lado do mundo",
+      "slug": "asia"
+    },
+    {
+      "title": "Europa",
+      "url": "/continents/Europe.jpg",
+      "description": "Cidades belíssimas e históricas",
+      "slug": "europe"
+    },
+    {
+      "title": "América do Norte",
+      "url": "/continents/NorthAmerica.jpg",
+      "description": "Grandes cidades e pontos turísticos incríveis",
+      "slug": "north-america"
+    },
+    {
+      "title": "Oceania",
+      "url": "/continents/Oceania.jpg",
+      "description": "Uma experiência bem peculiar",
+      "slug": "oceania"
+    },
+    {
+      "title": "América do Sul",
+      "url": "/continents/SouthAmerica.jpg",
+      "description": "Magníficas praias e tradições",
+      "slug": "south-america"
+    }
+  ]
+}
